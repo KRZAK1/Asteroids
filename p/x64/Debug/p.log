@@ -1,0 +1,11 @@
+﻿  obj.cpp
+C:\Users\Default\Documents\Projekt\p\tex.h(17,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Default\Documents\Projekt\p\tex.h(17,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Default\Documents\Projekt\p\obj.cpp(26,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Default\Documents\Projekt\p\obj.cpp(35,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Default\Documents\Projekt\p\obj.cpp(35,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Default\Documents\Projekt\p\obj.cpp(54,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Default\Documents\Projekt\p\obj.cpp(54,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Default\Documents\Projekt\p\obj.cpp(80,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Default\Documents\Projekt\p\obj.cpp(80,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  p.vcxproj -> C:\Users\Default\Documents\Projekt\x64\Debug\p.exe

@@ -1,0 +1,20 @@
+﻿  Asteroids.cpp
+  polozenie.cpp
+  obj.cpp
+C:\Users\mati2\source\repos\Projekt\p\tex.h(17,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mati2\source\repos\Projekt\p\tex.h(17,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mati2\source\repos\Projekt\p\obj.cpp(26,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\mati2\source\repos\Projekt\p\obj.cpp(35,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mati2\source\repos\Projekt\p\obj.cpp(35,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mati2\source\repos\Projekt\p\obj.cpp(41,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mati2\source\repos\Projekt\p\obj.cpp(41,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mati2\source\repos\Projekt\p\obj.cpp(67,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mati2\source\repos\Projekt\p\obj.cpp(67,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ruch.cpp
+  tex.cpp
+  Generating code
+  143 of 143 functions (100.0%) were compiled.
+    142 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  p.vcxproj -> C:\Users\mati2\source\repos\Projekt\x64\Release\p.exe
